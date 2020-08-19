@@ -119,7 +119,7 @@ h6 {
 
 #topbar {
   padding: 0 0 10px 0;
-  font-size: 14px;
+  font-size: 16px;
   transition: all 0.5s;
 }
 
@@ -226,7 +226,7 @@ h6 {
 #intro .intro-info .btn-services {
   font-family: "Montserrat", sans-serif;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
   display: inline-block;
@@ -384,7 +384,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active > a,
 .mobile-nav li:hover > a {
-  color: #8dc2fa;
+  color: #413e66;
   text-decoration: none;
 }
 
@@ -430,7 +430,7 @@ h6 {
 
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
-  color: #065e77;
+  color: #413e66;
 }
 
 .mobile-nav-overly {
@@ -619,7 +619,7 @@ h6 {
 }
 
 #services .box:hover .title a {
-  color: #0790b6;
+  color: #443d9b;
 }
 
 #services .description {
@@ -833,7 +833,6 @@ h6 {
   color: #f8fcff;
   font-weight: 500;
   font-size: 14px;
-  text-transform: uppercase;
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview,
@@ -858,6 +857,10 @@ h6 {
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover,
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover {
   background: #413e66;
+}
+
+.card {
+  background-color: rgba(230, 230, 250, 0.747);
 }
 
 #portfolio
